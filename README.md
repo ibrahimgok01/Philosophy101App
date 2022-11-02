@@ -56,9 +56,9 @@ https://tr.wikipedia.org/wiki/G%C3%BCndelik_dil_felsefesi
 https://tr.wikipedia.org/wiki/Hedonizm
 https://tr.wikipedia.org/wiki/Hegelcilik 
 
-NEW VERSION IS COMING!!
+NEW VERSION IS COMING SOON!!
 
-the version will include many more philosophers and various ideas and will be connected to firebase. 
+the new version will include many more philosophers and various ideas and will be connected to firebase. 
 Therefore, it will always be updated.
 
 - Ibrahim Gok
