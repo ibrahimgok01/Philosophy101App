@@ -1,6 +1,6 @@
 # Philosophy101App
 
-Philosophy 101 - Offline Edition
+Philosophy 101
 
 Resources:
 https://tr.wikipedia.org/wiki/Anaksimandros 
